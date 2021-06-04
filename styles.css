@@ -93,6 +93,7 @@ hr {
 }
 
 .hero-heading {
+    text-align: center;
     color: #374151;
 }
 .heading-inverted {
@@ -120,10 +121,12 @@ hr {
     padding: 2rem 1rem;
     text-align: center;
     color: white;
+    border-top-right-radius: 1rem;
 }
 
 .footer-link {
     color: white;
+    text-decoration: none;
 }
 
 .footer ul {
