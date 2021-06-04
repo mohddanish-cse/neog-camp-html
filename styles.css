@@ -10,6 +10,7 @@ body {
     margin: 0;
 }
 
+
 /* container */
 
 .container {
@@ -27,6 +28,7 @@ body {
     text-decoration: none;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
+    
 }
 
 .link-primary {
@@ -84,6 +86,7 @@ hr {
 
 .hero {
     padding: 2rem;
+    padding-top: 5rem;
 }
 
 .hero .hero-img {
@@ -127,6 +130,11 @@ hr {
 .footer-link {
     color: white;
     text-decoration: none;
+}
+
+.footer-header {
+    font-weight: bold;
+    font-size: larger;
 }
 
 .footer ul {
